@@ -40,3 +40,109 @@ So, one thing you might do before it hits your region is to buy enough food for 
 The symptoms of this virus include high fever, respiratory problems, shortness of breath and coughing. In extreme cases, it can even lead to pneumonia, kidney failure and death.
 
 To prevent infection from spreading, one should wash hands regularly, cover mouth and nose while coughing and sneezing and eat properly cook meat and eggs.
+I’m in Italy. Not far from where I am, 79 people have now been diagnosed as infected, and two have died.
+
+I’ll try to keep this updated, because what is happening now in Italy, will quite likely happen to you a bit later.
+
+The people who died were 75 and 78 years old. It seems one outgoing sporty guy was infected two weeks ago and went absolutely all over the place spreading the virus without realising it, until he was discovered to be infected, due to becoming obviously ill. Then the process began of tracing people he might have been in contact with (which will never be fully possible) and checking them for infection. So the official number of infections went from 3 to 79 in a couple of days. He himself is apparently critically ill.
+
+There is no tactful way to say the following. My mother is elderly and I really hope she does not get infected. Even so, the following does have to be said.
+
+I don’t want to minimise the threat posed by the virus, nor to dismiss these tragic deaths, but so far it does seem to mainly kill elderly people who are not so long for the world — and most of those even very fortunately seem to survive infection. That’s a really terrible thing and everyone’s life matters, but it isn’t quite as horrific as if it was killing people indiscriminately, taking away the lives of people who never had a chance to live and grow old. The percentage of young healthy people dying seems to be very small.
+
+There are some suggestions that this may not be as true for Asians, for genetic reasons. The truth of that seems unclear. We end up asking how much we can trust figures produced by China’s communist party. They are prone to disappearing people who talk too much.
+
+There is one paper that claims that the virus disproportionately hurts Asians, claiming that Asians have a higher number of ACE2 receptors in their lungs. But the sample size of that study was tiny, and other studies disagree. Likely it infects everyone equally, except that it may be far more severe in people with pre-existing health problems, especially if elderly.
+
+I fully expect the area where I live to eventually get “locked down” like the infected towns; it seems like there is a fair chance that this virus will spread throughout the world. We can’t know for sure, but efforts to contain it are not being hugely successful at the moment. It’s very infectious.
+
+On the other hand, unless it mutates in some horrible way, it’s not the Black Death. It mainly kills people who are alive because life for us has been in some ways extremely easy. We have made it possible for ourselves to live into advanced old age, and the world is full of elderly populations, who are consequently not well able to fight off serious infections like this one.
+
+It may cause economic chaos. It’s deadly enough to strike fear into people. It’s also a problem in itself (even aside from the tragic cost in human life) that many elderly people who would have died over the next decade, may die in a much shorter period of time. Some sources claim that if you’re over eighty and you get infected, you have a 14% chance of dying from it — but no-one really knows for sure.
+
+That would mean that most elderly people who are infected fortunately survive, but the risk to them is substantial.
+
+If the infection does spread throughout entire populations, even the number of young people who die or become seriously ill will add up and will present a logistical problem, as well as representing horrible tragedy.
+
+From the point of view of an individual though, I don’t see any need to panic. We readily accept similar risks, brushing them off. Smokers run a far greater risk, from smoking itself, don’t they? And at a certain age, we tend to start seeing still being alive as a surprising bonus.
+
+Keeping a couple of weeks’ food in the house might be a good idea, since panic buying can drain shelves and supply chains may be disrupted. Most people will have time to gradually accumulate some reserve food. No need to empty the supermarket shelves.
+
+Smoking may increase the risk of dying, so now is a good time to give it up. Although, some studies claim that smokers who’ve recently quit have the highest level of ACE2 receptors in their lungs, which is bad.
+
+Update 27 Feb 2020: 528 confirmed infected in Italy, 14 deaths — seemingly all with pre-existing health conditions; youngest 68 from what I’ve heard so far. Some supermarkets in Milan are apparently having trouble keeping the shelves stocked; people are stocking up in the hope of avoiding potential queues later, which ironically is why the shelves are sometimes empty.
+
+I’m seeing very few tourists compared to usual.
+
+1st March 2020: 1128 infected in Italy, 29 deaths. Still everything seems normal here, except fewer tourists. The impact on the tourist industry so far is the most unusually bad thing that’s happened aside from quarantines in certain areas; after all, more people will have died of flu in the same period.
+
+Seems clear that while the risk to individuals is tiny, only efforts at containment can hope to prevent hospitals from getting overwhelmed.
+
+First confirmed case in the town where I am, but that was a guy who’d travelled here from a known hotspot.
+
+Coronavirus, la mappa del contagio in Italia in tempo reale
+
+I just came across this article: Italy Shows Just How Crazy Coronavirus Panic Can Get
+
+I think it’s fundamentally wrong. There are two almost paradoxical problems here. Firstly, there is the risk to the individual. That’s astronomically low [well, if you’re not elderly an infirm, and if we’re talking about risk of actual death]. As an individual, if you were to take only the risk to yourself into account, you’d behave as normal. You’re more likely to die from flu than this new coronavirus.
+
+However, the virus is spread by single individuals, and if the virus spreads quickly, it will overwhelm our resources. We’ll end up with full hospitals, temporary hospitals, and crematoria running night and day. There are so many of us that a small percentage of deaths means Wuhan-style difficulties. This is why it is important to slow down the spread of the virus. No, it’s probably not ultimately containable, but if we put in some effort now, we can spread out the effects of it to the point where hospitals can carry on functioning normally and disruption is minimised. The challenge is to get the right balance, because too severe restrictions will in themselves cause problems.
+
+In short, risk to the individual: very low; risk to society: high. People who talk about economic impacts aren’t being crass; it’s the economic impact of it that will ultimately be the problem for most people, if they are affected at all.
+
+Incidentally, apparently masks do not stop people catching the virus — unless you get an N95 mask and fit it properly, which will then be very unpleasant to breathe through for extended periods of time. Masks are only useful if you’re infected, to help stop you spreading it.
+I’ve been following this virus with something akin to morbid curiosity for some weeks now. While I hesitate to say that I’m concerned… I do worry that there will be some large scale economic problems that follow.
+
+If the reported figures are accurate, then it seems like our efforts to contain the virus are showing signs of success (currently sitting at 43k cases and 1k deaths). And I say this because the rate of new active cases is decreasing.
+
+However, I do have concerns about this.. one of which relates to how quickly hospitals and doctors can handle new patients. Once a medical facility is at capacity, new potential patients are being turned away (according to social media). This leaves them uncounted, unaided, and out in public (relying on other people to help them (spread the virus further))…
+
+While the rate of infected people is declining, the death rate of the virus is continuing to increase… which suggests that we’re not capturing all instances of infection or that we’re our methods of collecting data is off / misleading.
+
+The second concern relates to the very often reported mortality rate of 2% to 2.5%. If this were true, I’d expect to see that, of the people that had the virus, 2% passed away, with the remaining 98% recovering. However, the closed cases rate indicates that 81% recover and 19% succumb to the virus. I’m not sure if a different strategy is used to calculate the mortality rate, but .. as far as I know, it doesn’t make sense to include all known cases of people who currently have the virus with those who die from it. We need to know, once the virus has run its course, how many people survive.
+
+I worry when reading quotes like this one, because it seems like this is precisely how they’ve estimated the mortality rate:
+
+At present, it is tempting to estimate the case fatality rate by dividing the number of known deaths by the number of confirmed cases. The resulting number, however, does not represent the true case fatality rate and might be off by orders of magnitude
+
+This make me wonder why it’s tempting to incorrectly calculate the mortality rate. What motivation/interest would cause the writer to state that they’d want to display a mortality rate much lower that an accurate figure? Preventing a public panic may be a factor here, but surely we’d want people to be appropriately concerned about the risks we face.
+
+Additionally, reports I’ve seen from morgues and crematoriums suggest that a greater number of people are dying from the virus than is being listed on official websites. If these individual businesses are reporting a higher than expected upturn in deaths, then the overall reported figures should be correspondingly higher.
+
+While the accuracy of these claims is debatable, and there are other somewhat plausible explanations, emissions (such as those produced by crematoriums) are extremely elevated. And, it may help to clarify this with figures to explain how claims of 50,000 deaths may be possible:
+
+Current SO₂ levels are extremely elevated, at 1700ug/m^3, where 80ug/m^3 is considered dangerously high.
+
+Similarly, the incubation period we’ve been told has been a fairly static 2 - 14 days, often reported to be 6.4 days (as a mean figure). However, one study suggests an incubation period as large as 24 days. While this is not widely advertised, it’s potentially due to the study not being peer reviewed (yet). This is troubling because people are typically quarantined for 14 days, potentially releasing them while they are contagious. There have already been instances of this occurring; which may be a sign that other incidents haven’t been reported.
+
+I suspect that, while still a global health concern, a 2% mortality rate is somewhat manageable. If this figure should read something around 19%.. then it’s a far more worrying prospect. When coupled with a long incubation period where it can be transmitted despite people not showing symptoms, and the chance of it being transferred through fecal matter and small air-borne particles (from coughing), we’re looking at a serious problem.
+
+China has performed well by closing down businesses and schools to help quarantine the virus. But this cannot continue without serious economic risks worldwide. We’re already seeing China asking for overseas businesses to resume trade, and they’re starting to send employees back to work. We’re treading a grey line between our economic stability and our physical health… at a time when the virus is still active and spreading. The question really revolves around where that line sits; if it’s within the economic stability route, the physical health route, or juxtaposed between the two… meaning, there’s a chance that we can’t avoid this turning into a big problem regardless of how we handle it.
+
+A potential problem is that China brought in overseas workers to help with their new year festivities. These temporary employees are being asked to return to work, and will soon be sent home to their respective countries. The risk of infection spreading is reasonably large; depending on quarantine procedures in their countries and the incubation period of the virus.
+
+While the following may also be false information, there have been incidents of news stations and websites displaying much larger figures for the coronavirus… with current active cases being as high as 250,000. While this figure seems plausible if we accept the worst case scenario of the figures above, I hesitate to accept that a government could willingly hide something like this; primarily because this speed of transmission would very quickly get out of control and expose the lie. Granted, it’s happened in the past (specifically with China), but I don’t like the idea of them willingly making the same mistake twice.
+
+I suspect that the virus is a larger problem than is being reported, but the extent of this is debatable…
+
+Transmission and mortality rates aside, the biggest problem we’re going to face is with our economy. If China falters, then the rest of the world is going to suffer too. What I’m most concerned about are the large industries that rely on trade with China, and the impact on our economies if they can’t source alternative (financially viable) goods and resources… If China doesn’t get back up and running soon, then we could face some dire economic hardships (worldwide).
+
+The following is from an email from my doctor to all of his clients, Richard Knight, MD:
+
+“According to the World Health Organization (WHO), “Coronaviruses (CoV) are a large family of viruses that cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV). A novel coronavirus (nCoV) us a bew strain that has not been previously identified in humans.”
+
+Corona viruses are a large family of viruses, common in many animal species. Only rarely do they spread to humans and cause disease. Three such major incidences have been the SARS outbreak in 2003, the MERS outbreak in 2012, and currently the novel coronavirus COVID-19. SARS was thought to have spread from civet cats to humans, and MERS was thought to have spread from dromedary camels to humans. It is uncertain exactly which animal has propagated the current coronavirus illness.
+
+Very little is known thus far about the specifics of COVID-19. Since it is new in humans, it will take some time to understand the virus, the transmission, the incubation period, any seasonality trends, and potential treatments or vaccines to prevent infection. Other viruses such as influenza, have been studied for years and we are able to track trends and understand how it progresses. Since the COVID-19 is novel or new, it is currently uncharted territory. We just don’t know how it will progress.
+
+Putting these outbreaks in perspective is important. With the 2003 outbreak of SARS there have been 8,098 documented cases and 774 died. This is approximately la 9.5% mortality rate. In the 2012 outbreak of MERS there were 2494 confirmed cases with 858 associated deaths or about a 35% mortality rate. These numbers may be skewed higher due to the relatively smaller number or overall cases of SARS and MERS. The current COVID-19 outbreak has a morality rate of about 2%. In comparison, influenza has a mortality rate of less than 0.2%.
+
+As of today, there are only 13 confirmed cases of COVID-19 in the US, and there are no deaths reported in the US. Because of precautionary measures now in place, the virus does not appear to be spreading in the US, and thus the health risk of the virus is very low for the general public in the US.
+
+The symptoms of COVID-19 are fever, cough, and shortness of breath, with only some also developing sore throat and runny nose. Because these symptoms are similar to many respiratory viruses, it is impossible to distinguish these from the coronavirus based only on symptoms.
+
+The virus is spread primarily through respiratory secretions similar to cold viruses and flu. There may be some indication that it can spread through the GI tract, but this is not certain at present. Most respiratory viruses are contracted by either inhaling the virus from close contact with the infected, or by touch and handling of the virus from contaminated surfaces.
+
+Preventative measures include good handwashing with soap and water for at least 20 seconds; hand sanitizers may help, but are not proven; avoid touching your eyes, nose, and mouth with unwashed hands; stay home when you are sick until fever-free for 24 hours; stay away from contact with others who may be sick; disinfect and clean surfaces or objects that others may also touch such as door knobs, faucet handles, desks, and countertops.
+
+Should you wear a face mask? At this time there is no need to rush and obtain surgical or face masks. The types of masks available for use generally would be helpful in reducing the spread of respiratory illnesses, but probably would not protect you from contracting the virus
